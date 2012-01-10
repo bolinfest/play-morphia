@@ -1,5 +1,6 @@
 bin
 build.bat
+build.properties
 .classpath
 .project
 .eclipse
